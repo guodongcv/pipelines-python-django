@@ -1,7 +1,7 @@
-[![Build Status](https://dev.azure.com/guodong2711/Pipeline Test/_apis/build/status/guodongcv.pipelines-python-django?branchName=master)](https://dev.azure.com/guodong2711/Pipeline Test/_build/latest?definitionId=15&branchName=master)
+
 
 # Sample Python app for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/guodong2711/Pipeline Test/_apis/build/status/guodongcv.pipelines-python-django?branchName=master)](https://dev.azure.com/guodong2711/Pipeline Test/_build/latest?definitionId=15&branchName=master)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 [![Build Status](https://dev.azure.com/guodong2711/Django%20Test/_apis/build/status/guodongcv.pipelines-python-django?branchName=master)](https://dev.azure.com/guodong2711/Django%20Test/_build/latest?definitionId=13&branchName=master)
  
